@@ -1,21 +1,18 @@
 <div align="center">
 
-# Hello world, I'm Sorathiya Viral 🔐 
-**SOC Analyst | CEH | React/Node.js Developer | Sileosec Founder**
+# Sorathiya Viral
 
------
+## SOC Analyst | CEH | React/Node.js Developer | Sileosec Founder
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&size=48&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=Certified+Ethical+Hacker;SOC+Analyst+Intern+%26+Cybersecurity+Trainee;React+%26+Node.js+Developer;Sileosec+Startup+Founder;Building+Cyber%2BAI+Content" alt="Typing SVG" />
 </p>
 
------
 
 </div>
 
 ### 👨‍💻 About Me
-
-<div>
 
 💡 **Owner of Sileosec** – Cyber + AI content creation startup brand revolutionizing security education.
 
@@ -25,13 +22,10 @@
 
 ✍️ **Fun fact:** Passionate about turning complex security concepts into accessible content for the next generation of cyber professionals.
 
-</div>
 
------
+---
 
 <h2 align="center">🛡️ Cybersecurity Projects</h2>
-
-<div>
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -39,7 +33,7 @@
 | **Ethical Hacking Automation** | Recon, scanning automation & OSINT tools | Advance Shell Scripting, Python |
 | **Attack Simulation Guides** | Lab guides with attack + defense strategies | Documentation, Attack Simulation Guide |
 
-</div>
+---
 
 <h2 align="center">🌐 Web Development Projects</h2>
 
@@ -55,7 +49,7 @@ _Invoice Management System_
 
 </div>
 
------
+---
 
 ### 🛠️ Technologies & Tools
 

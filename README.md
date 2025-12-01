@@ -4,10 +4,8 @@
 
 </div>
 
----
 
 # Sorathiya Viral
-
 ## SOC Analyst | CEH | React/Node.js Developer | Sileosec Founder
 
 💡 **Owner of Sileosec** – Cyber + AI content creation startup brand revolutionizing security education.
@@ -15,8 +13,6 @@
 🔐 **Cybersecurity Professional** – Entry-level SOC Analyst building hands-on skills through cyber labs, ethical hacking automation, and attack simulation.
 
 🌐 **Full-Stack Developer** – Specializing in React, Node.js, PHP with MongoDB & MySQL. Front-end designer creating intuitive user experiences.
-
-✍️ **Fun fact:** Passionate about turning complex security concepts into accessible content for the next generation of cyber professionals.
 
 
 ---
@@ -61,15 +57,12 @@ _Invoice Management System_
 
 ### 📫 Connect With Me
 
-<div align="center">
-
 <a href="https://linkedin.com/in/sileosec" target="_blank">LinkedIn</a>
-
-</div>
 
 -----
 
-<h3 align="center">Currently Building</h3>
+<div align="center">
 
-**The future of Cyber + AI content creation at Sileosec**
 **🔐Security-first developer building the next generation of cyber awareness**
+
+</div>

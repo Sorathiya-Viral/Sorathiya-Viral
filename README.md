@@ -25,7 +25,6 @@
 | **Ethical Hacking Automation** | Recon, scanning automation & OSINT tools | Advance Shell Scripting, Python |
 | **Attack Simulation Guides** | Lab guides with attack + defense strategies | Documentation, Attack Simulation Guide |
 
----
 
 <h2 align="center">🌐 Web Development Projects</h2>
 
@@ -47,13 +46,11 @@ _Invoice Management System_
 
 <p style="color: #F5F5DC; font-size: 1.1em; font-weight: 500; text-align: center;">
 
-**Web Development:** React JS • Node JS • PHP • Bootstrap • MongoDB • MySQL • JavaScript • HTML • CSS  
+**Web Development:** React JS • Node JS • PHP • Bootstrap • MongoDB • MySQL • JavaScript
 **Cybersecurity:** Kali Linux • Parrot OS • Bash • Python • Nmap • Git • Docker • Linux • OSINT Tools  
 **Infrastructure:** VMWare • VirtualBox • Ubuntu Server • Windows Server • Metasploitable
 
 </p>
-
------
 
 ### 📫 Connect With Me
 

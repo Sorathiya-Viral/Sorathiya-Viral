@@ -40,10 +40,13 @@
 
 ## 🌐 Web Development Projects
 
-<div align="center" style="color: #F5F5DC;">
-**Freelax Pro** - Freelance Management System (PHP, Bootstrap, MySQL)
+<div style="color: #F5F5DC;">
+
+  **Freelax Pro** - Freelance Management System (PHP, Bootstrap, MySQL)
 <br>
-**Quick Invoice** - Invoice Management System (React JS, Node JS, MongoDB)
+
+  **Quick Invoice** - Invoice Management System (React JS, Node JS, MongoDB)
+
 </div>
 
 -----

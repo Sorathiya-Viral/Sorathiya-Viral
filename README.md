@@ -1,11 +1,11 @@
 <div align="center">
-
-
-
+<br>
+<br>
+<br>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&size=48&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=Certified+Ethical+Hacker;SOC+Analyst+Intern;React+%26+Node.js+Developer;Sileosec+Startup+Founder;Building+Cyber%2BAI+Content" alt="Typing SVG" />
-
-
-
+<br>
+<br>
+<br>
 </div>
 
 

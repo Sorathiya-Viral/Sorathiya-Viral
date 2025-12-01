@@ -1,28 +1,19 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
-* { font-family: 'Space Grotesk', sans-serif !important; }
-h1, h2, h3 { color: #FF0033 !important; font-weight: 600 !important; }
-p, li, td { color: #F5F5DC !important; } /* Cream white */
-a { color: #FF0033 !important; }
-body { background: #0a0a0a !important; color: #F5F5DC !important; }
-</style>
-
 <div align="center">
 
-### Hello world, I'm [Your Name] 🔐 
+### Hello world, I'm Sorathiya Viral 🔐 
 **SOC Analyst | CEH | React/Node.js Developer | Sileosec Founder**
 
 -----
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&size=28&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=Certified+Ethical+Hacker+(CEH);SOC+Analyst+%26+Cybersecurity+Trainee;React+%26+Node.js+Developer;Sileosec+Startup+Founder;Building+Cyber%2FAI+Content" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&size=28&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=Certified+Ethical+Hacker;SOC+Analyst+Intern+%26+Cybersecurity+Trainee;React+%26+Node.js+Developer;Sileosec+Startup+Founder;Building+Cyber%2FAI+Content" alt="Typing SVG" />
 </p>
 
 </div>
 
 ## 🚀 About Me
 
-<div style="color: #F5F5DC; font-weight: 500;">
+<div>
 
 💡 **Owner of Sileosec** – Cyber + AI content creation startup brand revolutionizing security education.
 
@@ -36,7 +27,7 @@ body { background: #0a0a0a !important; color: #F5F5DC !important; }
 
 ## 🛡️ Cybersecurity Projects
 
-<div style="color: #F5F5DC;">
+<div>
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -59,9 +50,8 @@ body { background: #0a0a0a !important; color: #F5F5DC !important; }
 
 <div style="color: #F5F5DC; font-size: 1.1em; font-weight: 500;">
 
-**Web Development:** React JS • Node JS • PHP • Bootstrap • MongoDB • MySQL • JavaScript • HTML • CSS  
-**Cybersecurity:** Kali Linux • Bash • Python • Nmap • Git • Docker • Linux • OSINT Tools  
-**Other:** VirtualBox • TryHackMe • HackTheBox • Automation Scripting
+**Web Development:** React JS • Node JS • PHP • Bootstrap • MongoDB • MySQL  
+**Cybersecurity:** Kali Linux • Bash • Python • Nmap • Git • Docker • Linux • OSINT Tools
 
 </div>
 
@@ -70,11 +60,8 @@ body { background: #0a0a0a !important; color: #F5F5DC !important; }
 ## 📫 Connect With Me
 
 <div align="center" style="color: #F5F5DC;">
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
+<a href="https://linkedin.com/in/sileosec" target="_blank">
   <strong>🔗 LinkedIn</strong>
-</a> • 
-<a href="https://sileosec.com" target="_blank">
-  <strong>🌐 Sileosec</strong>
 </a>
 </div>
 

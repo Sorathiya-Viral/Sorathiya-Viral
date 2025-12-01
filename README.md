@@ -9,6 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&size=28&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=Certified+Ethical+Hacker;SOC+Analyst+Intern+%26+Cybersecurity+Trainee;React+%26+Node.js+Developer;Sileosec+Startup+Founder;Building+Cyber%2FAI+Content" alt="Typing SVG" />
 </p>
 
+-----
 </div>
 
 ## 🚀 About Me
@@ -31,16 +32,17 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Home Labs** | Multi-VM lab for offensive & defensive security | VirtualBox, Kali Linux, Metasploitable |
-| **Ethical Hacking Automation** | Recon, scanning automation & OSINT tools | Bash, Python, Nmap, Recon-ng |
-| **Attack Simulation Guides** | Lab guides with attack + defense strategies | Documentation, TryHackMe, HackTheBox |
+| **Home Labs** | Multi-VM lab for offensive & defensive security | VMWare, Kali Linux, Parrot OS, Ubuntu Server, Windows Server, Database Server, Metasploitable |
+| **Ethical Hacking Automation** | Recon, scanning automation & OSINT tools | Advance Shell Scripting, Python |
+| **Attack Simulation Guides** | Lab guides with attack + defense strategies | Documentation, Attack Simulation Guide |
 
 </div>
 
 ## 🌐 Web Development Projects
 
 <div align="center" style="color: #F5F5DC;">
-**Freelax Pro** - Freelance Management System (PHP, Bootstrap, MySQL)  
+**Freelax Pro** - Freelance Management System (PHP, Bootstrap, MySQL)
+<br>
 **Quick Invoice** - Invoice Management System (React JS, Node JS, MongoDB)
 </div>
 

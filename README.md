@@ -1,3 +1,5 @@
+<h1 align="center">Sorathiya Viral</h1>
+
 <div align="center">
 <br>
 <br>
@@ -8,62 +10,52 @@
 <br>
 </div>
 
+<h3 align="center">SOC Analyst Intern | Cybersecurity Student | Full-Stack Developer | Sileosec Founder | Automation Enthusiast</h3>
 
-# Sorathiya Viral
-## SOC Analyst | CEH | React/Node.js Developer | Sileosec Founder
+---
 
-💡 **Owner of Sileosec** – Cyber + AI content creation startup brand revolutionizing security education.
+**Owner of Sileosec** <br>
+Cyber + AI content creation startup revolutionizing security education
 
-🔐 **Cybersecurity Professional** – Entry-level SOC Analyst building hands-on skills through cyber labs, ethical hacking automation, and attack simulation.
+**Cybersecurity Professional** <br>
+Entry-level SOC Analyst building hands-on skills through cyber labs, ethical hacking automation, attack simulatio and SOC labs
 
-🌐 **Full-Stack Developer** – Specializing in React, Node.js, PHP with MongoDB & MySQL. Front-end designer creating intuitive user experiences.
+**Full-Stack Developer** <br>
+Security-first developer, Worked on React, Node Js & PHP with MongoDB & MySQL to create intuitive user interface and web projects
 
 
 ---
 
-<h2 align="center">🛡️ Cybersecurity Projects</h2>
+### CYBERSECURITY PROJECTS
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Home Labs** | Multi-VM lab for offensive & defensive security | VMWare, Kali Linux, Parrot OS, Ubuntu Server, Windows Server, Database Server, Metasploitable |
-| **Ethical Hacking Automation** | Recon, scanning automation & OSINT tools | Advance Shell Scripting, Python |
-| **Attack Simulation Guides** | Lab guides with attack + defense strategies | Documentation, Attack Simulation Guide |
+| Project | Short description | Tech stack |
+|---|---|---|
+| **Home Labs** | Multi-VM lab for offensive & defensive security — network devices, SIEM, attacker & defender OSes, and vulnerable targets for hands‑on practice. | VMWare · pfSense · Wazuh · Kali Linux · Parrot OS · Ubuntu Server · Windows Server · Database Server · Metasploitable |
+| **Ethical Hacking Automation** | Recon, scanning and OSINT automation — scripts and toolchains to accelerate assessments. | Advanced Shell scripting · Python |
+| **Attack Simulation Guides** | Step‑by‑step attack & defense playbooks, lab setups and simulation programs. | Documentation · Attack simulation guides · Simulation tools |
 
+### WEB DEVELOPMENT PROJECTS
 
-<h2 align="center">🌐 Web Development Projects</h2>
+| Project name | Description | Tech stack |
+|---|---|---|
+| **Freelax Pro** | Freelance Management System | PHP · Bootstrap · MySQL |
+| **Quick Invoice** | Invoice Management System | React · Node · MongoDB |
 
-<div align="center">
+### TECH & TOOLS
 
-**Freelax Pro**
-_Freelance Management System_  
-`PHP • Bootstrap • MySQL`
+| **Web Development** |
+| :-------------------|
+| React JS · Node JS · PHP · Bootstrap · MongoDB · MySQL · JavaScript |
 
-**Quick Invoice**  
-_Invoice Management System_  
-`React JS • Node JS • MongoDB`
+| **Cybersecurity** |
+| :-----------------|
+| Bash · zsh · fish · python · Nmap · Git · Docker · Linux · OSINT tools · Wazuh · Metasploit |
 
-</div>
+| **Infrastructure** |
+| :------------------|
+| VMWare Workstation Pro · Ubuntu SOC Server · Windows Server 2022/2019 ADDS · Windows 10 Enterprise · pfsense |
 
 ---
 
-### 🛠️ Technologies & Tools
-
-<p style="color: #F5F5DC; font-size: 1.1em; font-weight: 500; text-align: center;">
-
-**Web Development:** React JS • Node JS • PHP • Bootstrap • MongoDB • MySQL • JavaScript
-**Cybersecurity:** Kali Linux • Parrot OS • Bash • Python • Nmap • Git • Docker • Linux • OSINT Tools  
-**Infrastructure:** VMWare • VirtualBox • Ubuntu Server • Windows Server • Metasploitable
-
-</p>
-
-### 📫 Connect With Me
-
-<a href="https://linkedin.com/in/sileosec" target="_blank">LinkedIn</a>
-
------
-
-<div align="center">
-
-**🔐Security-first developer building the next generation of cyber awareness**
-
-</div>
+> Sorathiya Viral <br>
+> <a href="https://linkedin.com/in/sileosec" target="_blank">LinkedIn</a>
